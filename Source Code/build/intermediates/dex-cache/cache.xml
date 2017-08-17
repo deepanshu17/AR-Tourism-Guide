@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Raj_Hack\Rajasthan_Tour\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Raj_Hack\Rajasthan_Tour\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_530ed2014c8cf1031ac8ea676cd9b0cd08132e28\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adish Jain\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Raj_Hack\Rajasthan_Tour\app\build\intermediates\pre-dexed\debug\glide-3.7.0_91dedb139fcb58a9278b3f693ab82c4c45664bfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adish Jain\.android\build-cache\34b0a52b58ca75a5e4560742f06dee08a1d933ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="D:\Raj_Hack\Rajasthan_Tour\app\build\intermediates\pre-dexed\debug\classes_888b77290d9702617ec6dfa005f8ecfb0a66f0b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Raj_Hack\Rajasthan_Tour\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a75957137f20ba8646e138f9a785e2ef01fc2cb4">
+        <dex dex="D:\Raj_Hack\Rajasthan_Tour\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e488525a5bef5019588279ed4ed286b59416a786\classes.dex" />
+    </item>
+
+</items>
